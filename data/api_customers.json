@@ -1,0 +1,37 @@
+[
+  {
+    "customer_id": 101,
+    "customer_name": "Ravi Kumar",
+    "email": "ravi@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana"
+  },
+  {
+    "customer_id": 102,
+    "customer_name": "Anita Rao",
+    "email": "anita@example.com",
+    "city": "Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "customer_id": 103,
+    "customer_name": "Suresh Reddy",
+    "email": "suresh@example.com",
+    "city": "Hyderabad",
+    "state": "Telangana"
+  },
+  {
+    "customer_id": 104,
+    "customer_name": "Meena Sharma",
+    "email": "meena@example.com",
+    "city": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "customer_id": 105,
+    "customer_name": "Arjun Singh",
+    "email": "arjun@example.com",
+    "city": "Delhi",
+    "state": "Delhi"
+  }
+]
