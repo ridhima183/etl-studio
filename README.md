@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:5b21b6,100:a855f7&height=260&section=header&text=DataWeave&fontSize=68&fontColor=f3e8ff&fontAlignY=38&desc=CSV%20%2B%20API%20%E2%86%92%20Pandas%20%E2%86%92%20MySQL%20%7C%20A%20Beginner-Friendly%20ETL%20Pipeline&descSize=17&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:5b21b6,100:a855f7&height=260&section=header&text=etl-Studio&fontSize=68&fontColor=f3e8ff&fontAlignY=38&desc=CSV%20%2B%20API%20%E2%86%92%20Pandas%20%E2%86%92%20MySQL%20%7C%20A%20Beginner-Friendly%20ETL%20Pipeline&descSize=17&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Extract+%E2%86%92+Transform+%E2%86%92+Load;CSV+%2B+REST+API+%E2%86%92+One+Clean+Dataset;Deduplicated.+Validated.+Production-Minded.;Built+with+Python+%2B+Pandas+%2B+Flask+%2B+MySQL" alt="Typing SVG" />
 
